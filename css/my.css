@@ -1,0 +1,104 @@
+body {
+  margin-top: 50px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: "Open sans";
+  background: #f5f8f9;
+  overflow-x: hidden;
+}
+.navbar {
+  background: #fff;
+  display: inline-block;
+  z-index: 100;
+  color: #000;
+}
+.navbar li a {
+  color: #000000 !important;
+}
+#top {
+  border: 1px solid #deeaee;
+  background: #fff;
+  border-radius: 10px;
+}
+#searchbox {
+  background: #eeeeee;
+  overflow: hidden;
+  box-shadow: 2px 5px 10px #f7f7f7;
+}
+#header {
+  margin-top: 20px;
+}
+#myCarousel {
+  border: 1px solid #ccc;
+  margin-top: 10px;
+}
+#myCarousel img {
+  width: 100%;
+}
+#category ul {
+  list-style-type: none;
+  overflow: hidden;
+  width: 100%;
+  border: 1px solid #efefef;
+  background: #fff;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+#category li {
+  display: block;
+  font-weight: 400;
+  padding: 10px;
+  border-top: 1px solid #f1f1f1;
+  margin-left: -40px;
+}
+#offer img {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #deeaee;
+}
+#new {
+  font-weight: 800;
+}
+.tag {
+  display: inline;
+  float: left;
+  padding: 2px 5px;
+  width: auto;
+  background: #90e137;
+  color: #fff;
+  height: 23px;
+}
+.tag-side {
+  display: inline;
+  float: left;
+}
+.book-block {
+  margin-top: 20px;
+  padding: 5px;
+  background: #fff;
+  border: 1px solid #deeaee;
+  border-radius: 10px;
+}
+#author {
+  margin-top: 20px;
+  background: #fff;
+  border: 1px solid #deeaee;
+  border-radius: 10px;
+}
+#author .row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#author h3 {
+  color: rgb(228, 55, 25);
+}
+footer {
+  background: #101010 !important;
+  margin-top: 20px;
+  border: 1px solid #deeaee;
+  border-radius: 5px;
+  color: #d67b22 !important;
+}
+footer .row {
+  padding: 10px;
+}

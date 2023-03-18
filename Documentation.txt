@@ -1,0 +1,35 @@
+the Online Book Shop in php my Sql is built with HTML, JavaScript, CSS, Bootstrap, modal, and Ajax, this system uses to make faster transactions using online registration, the book shop system has the ability to monitor in the data of important data in online, such as borrowing a book online, then it is also created by the admin and user the admin is able to control the users, and the user is represented as staff and student, note the system is for educational only.
+
+Language Used:            PHP
+
+Database Used:            My SQL
+
+Design Interface:         Bootstrap JavaScript, HTML, Ajax, JQuery,
+
+Browser:                  Opera , Mozilla, Google Chrome , Etc.
+
+Software:                 WAMP/ XAMPP/ LAMP/MAMP
+
+About System              Online Books Store 
+
+ 
+
+How to setup this project
+
+Step 1st. Download xampp / Laragon
+
+Step 2nd. Text editor notepad++ / Sublime / Vs Code
+
+Step 3rd. Download the zip file/ Download winrar
+
+Step 4th. Extract the file and copy “GigHub Downloaded File” folder
+
+Step 5th. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs,
+
+Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
+
+Step 7th. Create database name "ccbd_book_store"
+
+Step 8th. Import "ccbd_book_store.sql" file given inside the zip package in SQL file folder
+
+Step 9th. Run the script http://localhost/"Your Folder Directory"
