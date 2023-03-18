@@ -9,7 +9,7 @@ A responsive website that displays available books in the store, along with thei
 - Place the repository in htdocs / www folder of xampp / Laragon
 - Go to Xampp / Laragon control panel and start apache and MySQL.
 - Import the database ccbd_book_store.sql in MySql server.
-- Set up the connection credentials in dbconnect.php </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="screenshot/connection.png" width="200" height="100"/></kbd>
+- Set up the connection credentials in dbconnect.php </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="screenshot/connection.png" width="500" height="100"/></kbd>
 - Thats it. Open <a href="http://localhost/">localhost/"Your Folder Name"/</a> in your browser
 
 ###Website Link : <a href="https://developerrony.com">Click This Link</a>
