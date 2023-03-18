@@ -15,3 +15,5 @@ A responsive website that displays available books in the store, along with thei
 ###Website Link : <a href="https://developerrony.com">Click This Link</a>
 
 ## Preview
+
+<kbd><img src="screenshot/index.png"/></kbd>
